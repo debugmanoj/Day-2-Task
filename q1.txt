@@ -1,0 +1,19 @@
+Write a blog on the difference between document and window objects
+
+Window Object =>
+
+1.Window is the top most object of the webpage
+
+2.It is the head for other objects
+
+3.In windows you can access location of current webpage , user interaction and more can be done using window object
+
+4.Most usecases of windows object is location of current webpage
+
+Document Object =>
+
+1.Document Object is sub-branch of Window object
+
+2.Were document is used to style the html tags and accessing the html tags 
+
+3.Its used mostly in javascript that for colecting the html elements
